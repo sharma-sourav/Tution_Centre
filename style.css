@@ -1,0 +1,51 @@
+h1{
+    color: dodgerblue ;
+    font-weight: 400px;
+    padding: 10px;
+    /* background-color: lightcyan; */
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h3{
+    color: brown;
+}
+table{
+    color: crimson;
+}
+td{
+    color: rgb(26, 18, 56);
+}
+caption{
+    color: rgb(8, 50, 63);
+}
+p1{
+    color: blueviolet;
+}
+p2{
+    color: chocolate;
+}
+html{
+    background-color: rgb(231, 229, 225);
+}
+b{
+    color: darkgoldenrod;
+}
+ul{
+    list-style:disc;
+    color:rgb(234, 166, 48);
+
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: none;
+}
+main{
+    color: rgba(240, 131, 21, 0.962);
+
+}
+ol{
+    color: chocolate;
+}
+
+
